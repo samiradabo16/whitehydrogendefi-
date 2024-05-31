@@ -45,6 +45,6 @@ The architectural diagram visually represents the interactions between the key c
 ## Canva Presentation
 A detailed Canva presentation has been created to further explain the decentralized framework for investment in white hydrogen. The presentation includes visual aids and a comprehensive breakdown of each component and their interactions.
 
-[View the Canva Presentation](https:// 
+[View the Canva Presentation] (https://www.canva.com/design/DAGGzh0itFc/OOqFu7tjUxKm_DPOac64Zw/edit) 
 
  
