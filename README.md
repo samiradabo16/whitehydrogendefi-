@@ -3,7 +3,7 @@ Hosted by Samira KD
 
 Accessible by whitehydrogen.club
 
-See https://github.com/vandenhaak/whitehydrogen
+See 
 
 # Decentralized Framework for Investment in White Hydrogen
 
